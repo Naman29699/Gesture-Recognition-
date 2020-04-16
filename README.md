@@ -5,3 +5,4 @@ It only works with VLC media player as they have shorcut keys for various contro
 Train your data.
 Test it and enjoy.
 Google drive video link : https://drive.google.com/open?id=12iukUOgp3VtztZ7x64Ffu9HMr84z7GlF
+Youtube video : https://youtu.be/TL44IzXRZHs
